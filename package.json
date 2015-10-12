@@ -1,0 +1,17 @@
+{
+  "name": "ogparse",
+  "version": "1.0.0",
+  "description": "Scrap OG(Open Graph) data from a URL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjun Komath",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "jsdom": "^6.5.1",
+    "promise": "^7.0.4"
+  }
+}
